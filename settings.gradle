@@ -1,0 +1,2 @@
+rootProject.name = "MyPrjPopLibMvp"
+include ':app'
